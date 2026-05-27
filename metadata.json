@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Creator OS 2026",
+  "description": "Sistem operasi konten & penjadwal bisnis TikTok terintegrasi dengan Google Account & AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
